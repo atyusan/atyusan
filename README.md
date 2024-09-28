@@ -16,6 +16,6 @@ A JavaScript expert with a passion for full stack development, specializing in c
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-squar&logo=postgresql&logoColor=white)
 
 ### How to reach me 📫
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:emmanuelelias455@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:atyusan.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atyusan)
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](your_twitter_profile_link)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](your_devto_profile_link)
