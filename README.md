@@ -1,4 +1,5 @@
 ### Hello! 👋 I'm Atyusan
+Just a builder fully obsessed with the grind.
 A JavaScript expert with a passion for full stack development, specializing in creating dynamic applications for both mobile and web platforms. With extensive experience in various JavaScript frameworks and libraries, I love crafting seamless user experiences and building robust backend solutions. Let's connect and collaborate on innovative projects!
 
 ### My Stack 🧠
